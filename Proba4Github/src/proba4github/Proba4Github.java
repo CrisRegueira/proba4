@@ -16,6 +16,8 @@ public class Proba4Github {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Esto foi escrito dende netbeans");
+        System.out.println("Esto foi escrito dende GitHub"); 
     }
     
 }
+
